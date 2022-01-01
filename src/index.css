@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+body {
+    font-family: 'Pushster', cursive;
+}
+
+.container{
+    background: var(--color-a);
+    margin-top: 10px;
+}
+
+h2 {
+    color: var(--color-b);
+}
+:root{
+    --color-a: #2F3A8F;
+    --color-b: #FE7E6D;
+    --color-c: #CCD1E4;
+    --color-d: #FEECE9;
+}
+
+.fondoForm {
+    background: var(--color-c);
+}
+
+.botonForm {
+    color: var(--color-d);
+}
+
+.card {
+    background: var(--color-c);
+}
